@@ -8,6 +8,6 @@
                 {!acc.Name} 
             </p>
         </lightning:card>
-        
+    
     </aura:iteration>
 </aura:component>
