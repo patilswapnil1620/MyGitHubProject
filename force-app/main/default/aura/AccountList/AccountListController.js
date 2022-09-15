@@ -5,7 +5,7 @@
         // set the handler attributes based on event data
         console.log('acclist is :'+accList);
         component.set("v.accList", accList);
-        // aura
+        // aura lllllllllllllllllllll
        
 	}
 })
