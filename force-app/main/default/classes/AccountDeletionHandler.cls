@@ -9,6 +9,7 @@ public class AccountDeletionHandler {
             if(mapAcc.get(a.Id).Contacts.size()>2){
                 a.addError('can not be delete the account');
                 //commented 21-09-2022
+                //commented 27-09
             }
         }
     }
