@@ -1,3 +1,5 @@
 import { LightningElement } from 'lwc';
 
-export default class WelcomeComp extends LightningElement {}
+export default class WelcomeComp extends LightningElement {
+    name = 'Swapnil!!';
+}
