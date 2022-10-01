@@ -10,6 +10,7 @@ public class AccountDeletionHandler {
                 a.addError('can not be delete the account');
                 //commented 21-09-2022    sssssssssssssss
                 //commented 27-09
+                //commented on 01-10-2022
             }
         }
     }
