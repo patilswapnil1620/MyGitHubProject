@@ -14,4 +14,4 @@ export default class CalculatorExample extends LightningElement {
         this.result =parseInt(this.fnumber)+ parseInt(this.snumber);
         
     }
-} 
+}
